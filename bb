@@ -1,2 +1,2 @@
 bb
-local
+changed by git2
